@@ -1,4 +1,3 @@
-# Colors and emojis I like
 1. Blue
 2. Green
    1. :+1:
